@@ -1,5 +1,11 @@
 This project was made React, Redux, React Style Components with [Chat App](https://chatdev.site).
 
+<p align="center">
+  <a href="https://chatdev.site">
+    <img alt="Gatsby" src="https://i.ibb.co/h22qwpX/Screen-Shot-2019-03-23-at-12-22-24-PM.png" />
+  </a>
+</p>
+
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here].
 
