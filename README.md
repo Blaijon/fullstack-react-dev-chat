@@ -1,7 +1,7 @@
 This project was made React, Redux, React Style Components with [Chat App](https://chatdev.site).
 
 <p align="center">
-  <a target="_blank"href="https://chatdev.site">
+  <a target="_blank" href="https://chatdev.site">
     <img alt="Gatsby" src="https://i.ibb.co/h22qwpX/Screen-Shot-2019-03-23-at-12-22-24-PM.png" />
   </a>
 </p>
