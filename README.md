@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+This project was made React, Redux, React Style Components with [Chat App](https://chatdev.site).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here].
