@@ -1,4 +1,4 @@
-This project was made React, Redux, React Style Components with [Chat App](https://chatdev.site).
+This project was made React, Redux, React Style Components with [Chat App].
 
 <p align="center">
   <a target="_blank">
